@@ -19,7 +19,6 @@ function App() {
     <div className="App">
       <Navbar/>
       
-mmmmm
       <a href="#Sectionsix">
       <div className="afspraak-maken">
         <p className="reclame-text">{t('afspraakMaken.1')}</p>
