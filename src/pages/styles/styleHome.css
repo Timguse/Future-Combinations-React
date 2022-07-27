@@ -1,0 +1,40 @@
+.home{
+    height: 100vh;
+    background-image: url("../../images/AdobeStock_422367143.png");
+    background-position: right; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: 1300px; /* Resize the background image to cover the entire container */
+    animation: fadeIn 3s;
+    z-index: 0;
+}
+
+@keyframes fadeIn{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+.title{
+    margin-top: 20vh;
+    width: 400px;
+}
+.introtext{
+    margin-top: -30px;
+}
+.div-text-img{
+    margin-left: -1000px;
+    width: 400px;
+    animation: moveRight 2s linear forwards;
+    height: 200px;
+}
+@keyframes moveRight{
+    100%{transform: translateX(290%);}
+}
+@media (max-width: 100px){
+    .title{
+        width: 200px;
+        margin-top: 100px;
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "navbar": {
+        "1": "Wie zijn wij",
+        "2": "Diensten",
+        "3": "Waarom ons",
+        "4": "Team",
+        "5": "Stappenplan",
+        "6": "Contact"
+    },
+    "afspraakMaken": {
+        "1": "maak afspraak"
+    },
+    "sectionfive": {
+        "1": "In 3 stappen een website",
+        "2": "Kennismaking",
+        "3": "We verzamelen gegevens voor je website en plannen een afspraak.",
+        "4": "Ondwikkel periode",
+        "5": "We ontwikkelen een website op maat en je ontvangt een eerste concept.",
+        "6": "Livegang",
+        "7": "Na feedback en correctierondes volgt het champagnemoment: je website gaat live!"
+    }
+}

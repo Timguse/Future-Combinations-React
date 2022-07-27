@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;700&display=swap');
+
+:root{
+    --mainColor: #ffffff;
+    --mainColorLight: #5767aa;
+    --secondaryColor: #Db2B39;
+    --textColor: rgb(0, 0, 0);
+}
+.sectionone{
+    height: 100vh;
+    background-color: rgb(241, 241, 241);
+}
+.text_sectionOne{
+    width: 45%;
+    margin-top: 30vh;
+    margin-left: 15%;
+    float: left;
+
+}
+.icon{
+    float: left;
+    width: 30%;
+    margin-left: 8%;
+    margin-top: 35vh;
+}
+img{
+    width: 200px;
+}
+
+@media (max-width: 1000px){
+    .icon{
+        display: none;
+    }
+    .text_sectionOne{
+        width: 65%;
+        margin-left: 20%;
+    }
+}
+@media (max-width: 800px){
+    .text_sectionOne{
+        width: 65%;
+    
+    }
+}

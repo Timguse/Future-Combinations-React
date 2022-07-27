@@ -1,0 +1,22 @@
+{
+    "navbar": {
+        "1": "Who are we",
+        "2": "Services",
+        "3": "Why us",
+        "4": "Team",
+        "5": "Plan",
+        "6": "Contact"
+    },
+    "afspraakMaken": {
+        "1": "make appointment"
+    },
+    "sectionfive": {
+        "1": "A website in 3 steps",
+        "2": "Introduction",
+        "3": "We collect data for your website and schedule an appointment.",
+        "4": "Development period",
+        "5": "We develop a custom website and you receive a first concept.",
+        "6": "Live Walk",
+        "7": "After feedback and correction rounds, the champagne moment follows: your website goes live!"
+    }
+}

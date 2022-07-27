@@ -1,0 +1,41 @@
+.sectionfive{
+    height: 100vh;
+    background-color: rgb(241, 241, 241);
+}
+.sectionfivelinks{
+    float: left;
+    /* border: 1px solid black; */
+    width: 40%;
+    border-radius: 15px;
+    height: 70vh;
+    margin-top: 20vh;
+    margin-left: 5%;
+    background-image: url(../../images/man-1839500_1920.jpg);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+.sectionfiverechts{
+    float: left;
+    /* border: 1px solid black; */
+    width: 30%;
+    height: 70vh;
+    margin-top: 20vh;
+    margin-left: 5%;
+
+}
+@media (max-width: 1000px){
+    .sectionfivelinks{
+        float: none;
+        width: 100%;
+        margin: 0;
+    }
+    .sectionfiverechts{
+        float: none;
+        width: 60%;
+        margin-left: 20%;
+    }
+    .sectionfive{
+        height: 1300px;
+    }
+}
