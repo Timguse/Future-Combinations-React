@@ -6,6 +6,7 @@ import React, { useState } from "react";
 import i18n from "i18next";
 import { withTranslation, WithTranslation } from 'react-i18next';
 import {Form} from 'react-bootstrap';
+import logoddd from "../images/logod.jpg";
 
 function Navbar(){
     
@@ -34,7 +35,7 @@ function Navbar(){
             <br/><br/><br/>
     <header>
         <a href="/">
-            <h3>Logo</h3>
+            <img className="logoddd" src={logoddd}></img>
         </a>
         <nav ref={navRef}> 
             <a href="#sectionone" onClick={showNavbar}>{t('navbar.1')}</a>

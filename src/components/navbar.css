@@ -9,8 +9,8 @@
 
 :root{
     --mainColor: #ffffff;
-    --mainColorLight: #172e47;
-    --secondaryColor: #172e47;
+    --mainColorLight: #149975;
+    --secondaryColor: #149975;
     --textColor: rgb(0, 0, 0);
 }
 a h3{
@@ -47,7 +47,7 @@ nav a{
     text-decoration: none;
 }
 nav a:hover{
-    color:#172e47;
+    color:#149975;
 }
 
 header .nav-btn{
@@ -99,4 +99,7 @@ header .nav-btn{
 nav{
     width: 90%;
     text-align: center;
+}
+.logoddd{
+    width: 80px;
 }

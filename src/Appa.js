@@ -70,13 +70,13 @@ function Appa(){
 </footer>
         
         </Router>
-            <CookieConsent debug={true}
+            {/* <CookieConsent debug={true}
             location="bottom"
             style={{background: '#141c25', textAlign: 'left', height: '150px'}}
             buttonStyle={{color: 'black', background: 'white', fontSize: '20px'}}
             buttonText="OKE IK GA AKKOORD!"
             
-            >Wij maken gebruik van cookies om uw website bezoek zo prettig mogelijk te maken. Meer weten over de cookies die wij gebruiken? Lees dan ons <a href="/privacy-policy">privacy beleid.</a></CookieConsent>
+            >Wij maken gebruik van cookies om uw website bezoek zo prettig mogelijk te maken. Meer weten over de cookies die wij gebruiken? Lees dan ons <a href="/privacy-policy">privacy beleid.</a></CookieConsent> */}
         </div>
     );
 }

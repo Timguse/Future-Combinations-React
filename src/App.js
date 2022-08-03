@@ -23,9 +23,7 @@ function App() {
       
       <a href="#Sectionsix">
         
-      <div className="afspraak-maken">
-        <p className="reclame-text">{t('afspraakMaken.1')}</p>
-      </div>
+
       </a>
       <Home/>
       <div data-aos="fade-in" data-aos-duration="10000" id="sectionone"><Sectionone/></div>
