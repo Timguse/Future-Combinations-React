@@ -8,7 +8,7 @@
 }
 .sectionone{
     height: 100vh;
-    background-color: rgb(241, 241, 241);
+    background-color: #f1f1f1;
 }
 .text_sectionOne{
     width: 45%;
@@ -41,4 +41,8 @@ img{
         width: 65%;
     
     }
+}
+.iconPopetje-afbeelding{
+    width: 400px;
+    right: 30px;
 }

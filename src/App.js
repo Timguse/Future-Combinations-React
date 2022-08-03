@@ -8,38 +8,35 @@ import Sectionfour from "./pages/Sectionfour";
 import Sectionfive from "./pages/Sectionfive";
 import Sectionsix from "./pages/Sectionsix";
 import { useTranslation } from 'react-i18next';
+import AOS from 'aos';
+import 'aos/dist/aos.css'; // You can also use <link> for styles
 
 
 
 function App() {
   const { t, i18n } = useTranslation();
-
+  AOS.init();
     
   return (
     <div className="App">
       <Navbar/>
       
       <a href="#Sectionsix">
+        
       <div className="afspraak-maken">
         <p className="reclame-text">{t('afspraakMaken.1')}</p>
       </div>
       </a>
       <Home/>
-      <div id="sectionone"><Sectionone/></div>
-      <div id="Sectiontwo"><Sectionthree/></div>
-      <div id="Sectionthree"><Sectiontwo/></div>
-      <div id="Sectionfour"><Sectionfour/></div>
-      <div id="Sectionfive"><Sectionfive/></div>
-      <div id="Sectionsix"><Sectionsix/></div>
+      <div data-aos="fade-in" data-aos-duration="10000" id="sectionone"><Sectionone/></div>
+      <div data-aos="fade-in" data-aos-duration="10000" id="Sectiontwo"><Sectionthree/></div>
+      <div data-aos="fade-in" data-aos-duration="10000" id="Sectionthree"><Sectiontwo/></div>
+      <div data-aos="fade-in" data-aos-duration="10000" id="Sectionfour"><Sectionfour/></div>
+      <div data-aos="fade-in" data-aos-duration="10000" id="Sectionfive"><Sectionfive/></div>
+      <div data-aos="fade-in" data-aos-duration="10000" id="Sectionsix"><Sectionsix/></div>
           
     </div>
     
   );
-  
-  
-
-    
-  
 }
-
 export default App;

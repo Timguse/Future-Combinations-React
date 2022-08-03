@@ -18,5 +18,22 @@
         "5": "We develop a custom website and you receive a first concept.",
         "6": "Live Walk",
         "7": "After feedback and correction rounds, the champagne moment follows: your website goes live!"
+    },
+    "contact": {
+        "1": "GET IN TOUCH",
+        "2": "Send us a message",
+        "3": "Your Name",
+        "4": "Your Email",
+        "5": "Company Name",
+        "6": "Your Message",
+        "7": " Yes, I would like to receive communications by call / email about Company's services.",
+        "8": "SUBMIT",
+        "9": "We've driven online revenues of over $2 billion for our clients. Ready to know how we can help you?"
+    },
+    "wieZijnWij": {
+        "1": "Who are we"
+    },
+    "WaaromOns": {
+        "1": "Why us"
     }
 }

@@ -18,5 +18,22 @@
         "5": "We ontwikkelen een website op maat en je ontvangt een eerste concept.",
         "6": "Livegang",
         "7": "Na feedback en correctierondes volgt het champagnemoment: je website gaat live!"
+    },
+    "contact": {
+        "1": "NEEM CONTACT OP",
+        "2": "Stuur ons een bericht",
+        "3": "Uw Naam",
+        "4": "Uw email",
+        "5": "Bedrijfsnaam",
+        "6": "Uw bericht",
+        "7": "Ja, ik wil graag telefonisch / per e-mail berichten ontvangen over de diensten van Bedrijf.",
+        "8": "VERZENDEN",
+        "9": "We hebben voor onze klanten een online-inkomsten van meer dan $ 2 miljard gerealiseerd. Klaar om te weten hoe we u kunnen helpen?"
+    },
+    "wieZijnWij": {
+        "1": "Wie zijn wij"
+    },
+    "WaaromOns": {
+        "1": "Waarom ons"
     }
 }

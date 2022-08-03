@@ -5,7 +5,7 @@
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: 1300px; /* Resize the background image to cover the entire container */
     animation: fadeIn 3s;
-    z-index: 0;
+    z-index: 5;
 }
 
 @keyframes fadeIn{
@@ -17,11 +17,11 @@
     }
 }
 .title{
-    margin-top: 20vh;
-    width: 400px;
+    margin-top: 30vh;
+    width: 350px;
 }
 .introtext{
-    margin-top: -30px;
+    margin-top: 30px;
 }
 .div-text-img{
     margin-left: -1000px;
@@ -34,7 +34,27 @@
 }
 @media (max-width: 100px){
     .title{
-        width: 200px;
+        width: 150px;
         margin-top: 100px;
     }
+}
+@media (max-width: 1000px){
+    .home{
+        background-size: 800px;
+        margin-top: 10vh;
+    }
+    .title{
+        margin-top: -8vh;
+    }
+    .div-text-img{
+        
+    }
+}
+.streep{
+    width: 46%;
+    height: 6px;
+    background-color: #d3e2f9;
+    margin-top: 48.8vh;
+    position: absolute;
+    z-index: 0;
 }

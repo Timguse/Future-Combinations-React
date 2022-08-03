@@ -25,7 +25,7 @@
     text-align: center;
     border-radius: 15px;
     background-color: rgb(241, 241, 241);
-    margin-top: 100px
+    margin-top: 10vh;
 }
 .serviceblok:hover{
     background-color: rgb(255, 255, 255);
@@ -35,7 +35,7 @@
 }
 .iconafbeelding{
     border-radius: 50%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     height: 80px;
     width: 80px;
     margin-left: auto;
@@ -76,4 +76,50 @@
 }
 .space{
     height: 15vh;
+}
+.afbeelding-icons{
+    width: 80px;
+}
+.popup{
+    position:absolute;
+    top:220vh;
+    left:12%;
+    margin:100px auto;
+    width:75%;
+    height:450px;
+    font-family:verdana;
+    font-size:13px;
+    padding:10px;
+    background-color:rgb(255, 255, 255);
+    /* border:2px solid #172e47; */
+    z-index:100000000000000000;
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
+    }
+    
+.cancel{
+    display:relative;
+    cursor:pointer;
+    margin:0;
+    top: 0;
+    float:right;
+    height:30px;
+    width:30px;
+    padding:0 0 5px 0;
+    background-color:rgb(255, 255, 255);
+    text-align:center;
+    font-weight:bold;
+    font-size:20px;
+    color:#172e47;
+    border-radius:3px;
+    z-index:100000000000000000;
+    }
+
+.cancel:hover{
+    background:#172e47;
+    }
+#text-span1{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 20vh;
 }
