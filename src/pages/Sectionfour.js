@@ -47,7 +47,7 @@ function Sectionfour(){
                         <h2>Max Jansen</h2>
                         <br/>
                         <p>Software Developer</p>
-                        <p>maxjanzen@futurecombinations.nl</p>
+                        <p>maxjansen@futurecombinations.nl</p>
                         <br/>
                         <div className="socialmedia-locatie">
                             <div className="socialmedia-icons">
