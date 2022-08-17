@@ -29,7 +29,9 @@
   
   .submit-btn {
     float: left;
+
   }
+  
   .reset-btn {
     float: right;
   }
@@ -156,7 +158,8 @@
   }
   button:hover, .submit-btn:hover,
   button:focus , .submit-btn:focus{
-    background: rgb(20, 28, 37);
+    background: #149975;
+    border: #149975;
     outline: 0;
     color: #eee;
   }

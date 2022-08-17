@@ -43,7 +43,7 @@ function Navbar(){
             <a href="#Sectionthree" onClick={showNavbar}>{t('navbar.3')}</a>
             <a href="#Sectionfour" onClick={showNavbar}>{t('navbar.4')}</a>
             <a href="#Sectionsix" onClick={showNavbar}>{t('navbar.6')}</a>
-            <button id="b" className="ennl-button" onClick={a}>en</button>
+            <button  id="b" className="ennl-button butoondh" onClick={a}>en</button>
 
             <button className="nav-btn nav-close-btn" onClick={showNavbar}>
                 <FaTimes />

@@ -20,6 +20,16 @@
     margin-top: 30vh;
     width: 350px;
 }
+.butoondh:hover{
+    background-color: #149975;
+    border: #149975;
+
+}
+.butoondh:focus{
+    background-color: #149975;
+    border: #149975;
+
+}
 .introtext{
     margin-top: 30px;
 }
@@ -30,8 +40,9 @@
     height: 200px;
 }
 @keyframes moveRight{
-    100%{transform: translateX(290%);}
+    100%{transform: translateX(275%);}
 }
+
 @media (max-width: 100px){
     .title{
         width: 150px;

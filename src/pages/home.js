@@ -11,7 +11,7 @@ function Home(){
             <img className="title" src={Title}></img><br/>
             <p className="introtext">ijjridijdrijdrjirdij rdjirdij rdijjid rfkjfrji ijfr rfrf  </p><br/>
             <a  href="#sectionone">
-                <button>
+                <button className='butoondh'>
                     wie zijn wij
                 </button>            
             </a>
