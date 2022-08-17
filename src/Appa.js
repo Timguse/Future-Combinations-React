@@ -14,7 +14,7 @@ import IconI from "./images/insta.png";
 function Appa(){
     const { t, i18n } = useTranslation();
     return(
-        <div>
+        <div> 
             {/* <div className="streep"></div> */}
             <Router>
                <Routes>
