@@ -38,20 +38,24 @@ function Navbar(){
             <img className="logoddd" src={logoddd}></img>
         </a>
         <nav ref={navRef}> 
-            <a href="#sectionone" onClick={showNavbar}>{t('navbar.1')}</a>
-            <a href="#Sectiontwo" onClick={showNavbar}>{t('navbar.2')}</a>
-            <a href="#Sectionthree" onClick={showNavbar}>{t('navbar.3')}</a>
-            <a href="#Sectionfour" onClick={showNavbar}>{t('navbar.4')}</a>
-            <a href="#Sectionsix" onClick={showNavbar}>{t('navbar.6')}</a>
-            <button  id="b" className="ennl-button butoondh" onClick={a}>en</button>
-
-            <button className="nav-btn nav-close-btn" onClick={showNavbar}>
+        <div className="sss">
+        <button className="nav-btn nav-close-btn gg" onClick={showNavbar}>
                 <FaTimes />
-            </button>
+        </button></div>
+       <div className="ppp"> <button  id="b" className="ennl-button butoondh" onClick={a}>en</button>
+       </div>
+       <div className="ooo">
+            <a href="#sectionone" onClick={showNavbar}>{t('navbar.1')}</a><br className="hhh"/><br className="hhh"/><br className="hhh"/>
+            <a href="#Sectiontwo" onClick={showNavbar}>{t('navbar.2')}</a><br className="hhh"/><br className="hhh"/><br className="hhh"/>
+            <a href="#Sectionthree" onClick={showNavbar}>{t('navbar.3')}</a><br className="hhh"/><br className="hhh"/><br className="hhh"/>
+            <a href="#Sectionfour" onClick={showNavbar}>{t('navbar.4')}</a><br className="hhh"/><br className="hhh"/><br className="hhh"/>
+            <a href="#Sectionsix" onClick={showNavbar}>{t('navbar.6')}</a>
+        </div>
+            
 
         </nav>
 
-        <button className="nav-btn" onClick={showNavbar}>
+        <button className="nav-btn " onClick={showNavbar}>
             <FaBars />
         </button>
         </header>

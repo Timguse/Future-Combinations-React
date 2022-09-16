@@ -13,8 +13,22 @@ import IconI from "./images/insta.png";
 
 function Appa(){
     const { t, i18n } = useTranslation();
+
+    
+      // var loader = document.getElementById("preloader");
+       window.addEventListener("load", function(){
+
+        setTimeout(()=>{
+          var loader = document.getElementById("preloader");
+          loader.className += " hidden"; //class="loader hidden"
+          loader.style.display = "none";
+
+          }, 1000)
+      })
+    
     return(
         <div> 
+          <div id="preloader"></div>
             {/* <div className="streep"></div> */}
             <Router>
                <Routes>
@@ -77,7 +91,11 @@ function Appa(){
             buttonText="OKE IK GA AKKOORD!"
             
             >Wij maken gebruik van cookies om uw website bezoek zo prettig mogelijk te maken. Meer weten over de cookies die wij gebruiken? Lees dan ons <a href="/privacy-policy">privacy beleid.</a></CookieConsent> */}
+        
         </div>
+       
+       
     );
+   
 }
 export default Appa;

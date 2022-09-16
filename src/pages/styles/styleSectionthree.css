@@ -24,7 +24,7 @@
     margin-left: 6%;
     text-align: center;
     border-radius: 15px;
-    background-color: rgb(241, 241, 241);
+    background-color: #f1f1f1;
     margin-top: 10vh;
 }
 .serviceblok:hover{
@@ -56,7 +56,7 @@
     }
     .sectionthree{
         height: 1100px;
-        background-color: #172e47;
+        background-color: #149975;
     
     }
 }
@@ -70,7 +70,7 @@
     }
     .sectionthree{
         height: 1700px;
-        background-color: #172e47;
+        background-color: #149975;
     
     }
 }
@@ -122,4 +122,19 @@
     width: 70%;
     margin-left: 15%;
     margin-top: 20vh;
+}
+@media (max-width: 900px){
+    .service{
+        height: 450px;
+    }
+}
+@media (max-width: 500px){
+    .serviceblok{
+        height: 500px;
+        width: 80%;
+        margin-left: 10%;
+    }
+    .sectionthree{
+        height: 2000px;
+    }
 }

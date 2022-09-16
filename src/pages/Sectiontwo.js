@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles/styleSectiontwo.css";
-import icon from "../images/13706.png";
+import icon from "../images/logod-grey.jpg";
 import { useTranslation } from 'react-i18next';
 import iconWhy from "../images/why.jpg";
 

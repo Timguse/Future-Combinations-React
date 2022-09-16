@@ -43,11 +43,18 @@
     100%{transform: translateX(275%);}
 }
 
-@media (max-width: 100px){
+@media (max-width: 500px){
     .title{
-        width: 150px;
+        width: 250px;
         margin-top: 100px;
     }
+    @keyframes moveRight{
+        100%{transform: translateX(265%);}
+    }
+    .home{
+        background-size: 500px;
+    }
+    
 }
 @media (max-width: 1000px){
     .home{

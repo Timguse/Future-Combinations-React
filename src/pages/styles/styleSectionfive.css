@@ -39,3 +39,13 @@
         height: 1300px;
     }
 }
+@media (max-width: 900px){
+    .sectionfive{
+        height: 150vh;
+    }
+}
+@media (max-width: 900px){
+    .sectionfive{
+        height: 200vh;
+    }
+}

@@ -171,3 +171,11 @@
         height: 900px;
     }
 }
+@media (max-width: 800px){
+  .sectionsix{
+      height: 1200px;
+  }
+  .text-contact{
+    margin-top: -30px;
+  }
+}

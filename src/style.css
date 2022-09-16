@@ -3,7 +3,8 @@ body{
 }
 html{
     scroll-behavior: smooth;
-
+    overflow-x: hidden;
+   
 }
 .afspraak-maken{
     position: fixed;
@@ -189,4 +190,43 @@ iframe{
     width: 30px;
     height: 30px;
 
+}
+@media
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5){
+
+  html,
+  body{
+    width:100%;
+    overflow-x:hidden;
+  }
+
+}
+.loader {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  position: relative;
+  border: 4px solid #Fff;
+  top: 50%;
+  animation: loader 2s infinite ease;
+}
+
+.loader-inner {
+  vertical-align: top;
+  display: inline-block;
+  width: 100%;
+  background-color: #fff;
+  animation: loader-inner 2s infinite ease-in;
+}
+
+#preloader{
+  background: rgb(255, 255, 255) url(./images/11.gif) no-repeat center center;
+  background-size: 8%;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
 }
