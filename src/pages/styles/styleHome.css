@@ -3,7 +3,7 @@
     background-image: url("../../images/AdobeStock_422367143.png");
     background-position: right; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: 1300px; /* Resize the background image to cover the entire container */
+    background-size: 1200px; /* Resize the background image to cover the entire container */
     animation: fadeIn 3s;
     z-index: 5;
 }
@@ -18,7 +18,7 @@
 }
 .title{
     margin-top: 30vh;
-    width: 350px;
+    width: 300px;
 }
 .butoondh:hover{
     background-color: #149975;
