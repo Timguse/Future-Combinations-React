@@ -8,7 +8,7 @@
   }
   
   body {
-    color: #212d31;
+    color: rgb(0, 0, 0);
   }
   
   .contain {
@@ -45,7 +45,7 @@
   }
   
   .highlight-text {
-    color: rgb(20, 28, 37);
+    color: #149975;
   }
   
   .hightlight-contact-info {
