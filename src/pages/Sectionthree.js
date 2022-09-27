@@ -17,7 +17,7 @@ function Sectionthree(){
         cancel.innerHTML = 'X';
         cancel.onclick = function (e) { popup.parentNode.removeChild(popup) };
         var message = document.createElement('span');
-        message.innerHTML = "<p id='text-span1'>Bij Next Buzz ontwikkelen we alle websites in WordPress. Dit is een Content Management System (CMS), een systeem waarmee je zelf wijzigingen op je website kan doorvoeren zonder dat daar technische kennis voor nodig is. WordPress is wereldwijd het meest gebruikte CMS, waardoor er vele webdesign oplossingen beschikbaar zijn voor allerhande toepassingen. Van een eenvoudige website tot een uitgebreide webshop, het kan allemaal binnen WordPress.</p>";
+        message.innerHTML = "<p id='text-span1'>Bij Future combinations ontwikkelen we alle websites in WordPress. Dit is een Content Management System (CMS), een systeem waarmee je zelf wijzigingen op je website kan doorvoeren zonder dat daar technische kennis voor nodig is. WordPress is wereldwijd het meest gebruikte CMS, waardoor er vele webdesign oplossingen beschikbaar zijn voor allerhande toepassingen. Van een eenvoudige website tot een uitgebreide webshop, het kan allemaal binnen WordPress.</p>";
         popup.appendChild(message);                                    
         popup.appendChild(cancel);
         document.body.appendChild(popup);
@@ -73,7 +73,7 @@ function Sectionthree(){
                 <br/>
                 <h2>Code</h2>
                 <br/>
-                <p className="tekst-service">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum.</p>
+                <p className="tekst-service">100% op maat ontwikkelde websites voor ambitieuze organisaties. Een  website laten maken door specialisten met meer dan 10 jaar ervaring.</p>
                     <button onClick={popUp1}>meer info</button>
 
                 </div>

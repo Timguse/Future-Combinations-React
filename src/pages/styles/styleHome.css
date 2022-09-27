@@ -3,7 +3,7 @@
     background-image: url("../../images/AdobeStock_422367143.png");
     background-position: right; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: 1200px; /* Resize the background image to cover the entire container */
+    background-size: 75%; 
     animation: fadeIn 3s;
     z-index: 5;
 }
@@ -18,7 +18,7 @@
 }
 .title{
     margin-top: 30vh;
-    width: 300px;
+    width: 90%;
 }
 .butoondh:hover{
     background-color: #149975;
@@ -40,7 +40,7 @@
     height: 200px;
 }
 @keyframes moveRight{
-    100%{transform: translateX(275%);}
+    100%{transform: translateX(305%);}
 }
 
 @media (max-width: 500px){
@@ -56,18 +56,19 @@
     }
     
 }
-@media (max-width: 1000px){
-    .home{
-        background-size: 800px;
-        margin-top: 10vh;
-    }
+@media (max-width: 460px){
     .title{
-        margin-top: -8vh;
+        width: 20px;
+        margin-top: 100px;
     }
-    .div-text-img{
-        
+    @keyframes moveRight{
+        100%{transform: translateX(245%);}
+    }
+    .home{
+        background-size: 500px;
     }
 }
+
 .streep{
     width: 46%;
     height: 6px;
@@ -75,4 +76,52 @@
     margin-top: 48.8vh;
     position: absolute;
     z-index: 0;
+}
+
+@media (max-width: 1300px){
+    .home{
+        background-size: 800px;
+        background-position: center;
+        margin-top: 10vh;
+    }
+    .title{
+        margin-top: -5vh;
+        width: 80%;
+
+    }
+    .div-text-img{
+    }
+    @keyframes moveRight{
+        100%{transform: translateX(255%);}
+    }
+    .ttt{
+        width: 60%;
+        margin-left: 10%;
+        height: 300px;
+        padding: 5%;
+    }
+}
+@media (max-width: 1000px){
+    .home{
+        background-size: 800px;
+        background-position: center;
+        margin-top: 10vh;
+    }
+    .title{
+        margin-top: -5vh;
+        width: 80%;
+        margin-right: 50%;
+    }
+    @keyframes moveRight{
+        100%{transform: translateX(255%);}
+    }
+    .div-text-img{
+        
+    }
+    .ttt{
+        width: 60%;
+        margin-left: 10%;
+        height: 300px;
+        padding: 5%;
+    }
 }

@@ -7,14 +7,16 @@ function Home(){
     return (
         
         <div className="home">
+            <div className="ttt">
             <div className="div-text-img">
             <img className="title" src={Title}></img><br/>
-            <p className="introtext">ijjridijdrijdrjirdij rdjirdij rdijjid rfkjfrji ijfr rfrf  </p><br/>
+            <p className="introtext">Website laten maken?</p><br/>
             <a  href="#sectionone">
                 <button className='butoondh'>
                     wie zijn wij
                 </button>            
             </a>
+            </div>
             </div>
             
         </div>

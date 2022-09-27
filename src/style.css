@@ -33,14 +33,7 @@ html{
     }
 }
 
-#preloader{
-    background: white url(./images/WhatsApp\ Image\ 2022-07-20\ at\ 7.22.39\ PM.jpeg) no-repeat center center ;
-   background-size: 50%;
-    height: 100vh;
-    width: 100%;
-    position: fixed;
-    z-index: 100;
-}
+
 iframe{
     visibility: hidden;
 }

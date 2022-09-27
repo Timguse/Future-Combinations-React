@@ -14,8 +14,7 @@ import IconI from "./images/insta.png";
 function Appa(){
     const { t, i18n } = useTranslation();
 
-    
-      // var loader = document.getElementById("preloader");
+      var loader = document.getElementById("preloader");
        window.addEventListener("load", function(){
 
         setTimeout(()=>{
