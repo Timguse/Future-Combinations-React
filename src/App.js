@@ -27,6 +27,7 @@ function App() {
       </a>
       <Home/>
       <div data-aos="fade-in" data-aos-duration="10000" id="sectionone"><Sectionone/></div>
+      <div className="divspace"></div>
       <div data-aos="fade-in" data-aos-duration="10000" id="Sectiontwo"><Sectionthree/></div>
       <div data-aos="fade-in" data-aos-duration="10000" id="Sectionthree"><Sectiontwo/></div>
       <div data-aos="fade-in" data-aos-duration="10000" id="Sectionfour"><Sectionfour/></div>

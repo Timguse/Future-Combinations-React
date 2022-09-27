@@ -3,7 +3,7 @@
     background-image: url("../../images/AdobeStock_422367143.png");
     background-position: right; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: 75%; 
+    background-size: 70%; 
     animation: fadeIn 3s;
     z-index: 5;
 }
