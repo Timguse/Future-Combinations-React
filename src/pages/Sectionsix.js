@@ -30,7 +30,6 @@ function Sectionsix(){
         <small></small>
       </p>
       <p className="full-width">
-        <input type="checkbox" id="checkbox" name="checkbox" checked></input> {t("contact.7")}
       </p>
       <p className="full-width">
         <input type="submit" className="submit-btn" value={t("contact.8")} onclick="checkValidations()"></input>
@@ -42,9 +41,8 @@ function Sectionsix(){
 
     <ul className="text-contact">
       <li>{t("contact.9")}</li>
-      <span class="hightlight-contact-info">
-        <li class="email-info"><i class="fa fa-envelope" aria-hidden="true"></i> info@demo.com</li>
-        <li><i class="fa fa-phone" aria-hidden="true"></i> <span class="highlight-text">+91 11 1111 2900</span></li>
+      <span class="hightlight-contact-info"><br/>
+        <li><i class="fa fa-phone" aria-hidden="true"></i> <span class="highlight-text">info@demo.com</span></li>
       </span>
     </ul>
   </div>

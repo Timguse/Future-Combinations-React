@@ -11,11 +11,11 @@ function Sectionone() {
         <div className="sectionone">
             <div className="text_sectionOne">
                 <h1>{t("wieZijnWij.1")}</h1><br />
-                Hallo. Wij zijn future combinations. Wij zijn een serieus webdesign- en onlinemarketingbureau met 2 online specialisten.
+                Wij zijn future combinations. Wij zijn een serieus webdesign en online web development bureau.
 
-                Wij ontwikkelen websites op maat, webshops en webapplicaties.. Wij zijn trots op wat we doen.
+                Wij ontwikkelen websites op maat, webshops en webapplicaties. Wij zijn trots op wat we doen.
 
-                Ons team bestaat uit webdesignersen ontwikkelaars.</div>
+                Ons team bestaat uit webdesigners en ontwikkelaars.</div>
             <div className="icon">
                 <img className="iconPopetje-afbeelding" src={iconPopetje}></img>
             </div>
