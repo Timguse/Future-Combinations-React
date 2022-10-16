@@ -10,10 +10,11 @@ function Home(){
             <div className="ttt">
             <div className="div-text-img">
             <img className="title" src={Title}></img><br/>
-            <p className="introtext">Website laten maken?</p><br/>
+            <p className="introtext">Ben jij opzoek naar een krachtige & unieke website met een zichtbaar resultaat?
+</p><br/>
             <a  href="#sectionone">
                 <button className='butoondh'>
-                    wie zijn wij
+                    websites
                 </button>            
             </a>
             </div>

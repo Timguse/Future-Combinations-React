@@ -32,7 +32,7 @@ function Navbar(){
 
     return (
         <div className="navbar">
-            <br/><br/><br/>
+            <br/><br/>
     <header>
         <a href="/">
             <img className="logoddd" src={logoddd}></img>
@@ -51,10 +51,7 @@ function Navbar(){
             <a href="#Sectionfour" onClick={showNavbar}>{t('navbar.4')}</a><br className="hhh"/><br className="hhh"/><br className="hhh"/>
             <a href="#Sectionsix" onClick={showNavbar}>{t('navbar.6')}</a>
         </div>
-            
-
         </nav>
-
         <button className="nav-btn " onClick={showNavbar}>
             <FaBars />
         </button>

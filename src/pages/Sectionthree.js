@@ -60,10 +60,10 @@ function Sectionthree(){
                         <img className="afbeelding-icons" src={Icon1}></img>
                     </div>
                     <br/>
-                    <h2>Wordpress</h2>
+                    <h2>Website</h2>
                     <br/>
-                    <p className="tekst-service">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum.</p>
-                    <button onClick={popUp}>meer info</button>
+                    <p className="tekst-service">krachtige en unieke websites, geheel op maat voor jouw bedrijf. Gemaakt in wordpress of helemaal geschreven met webtalen. </p>
+                    <button onClick={popUp}>lees meer</button>
 
                 </div>
                 <div className="serviceblok" data-aos="fade-left" data-aos-duration="100000">
@@ -71,10 +71,11 @@ function Sectionthree(){
                     <img className="afbeelding-icons"  src={Icon2}></img>
                 </div>
                 <br/>
-                <h2>Code</h2>
+                <h2>Webdesign</h2>
                 <br/>
-                <p className="tekst-service">100% op maat ontwikkelde websites voor ambitieuze organisaties. Een  website laten maken door specialisten met meer dan 10 jaar ervaring.</p>
-                    <button onClick={popUp1}>meer info</button>
+                <p className="tekst-service">Elke website die wij ontwerpen heeft een uniek design, volledig in lijn met jouw huisstijl. Lees meer over webdesign.
+                </p>
+                    <button onClick={popUp1}>lees meer</button>
 
                 </div>
                 <div className="serviceblok" data-aos="fade-left" data-aos-duration="100000">
@@ -82,10 +83,10 @@ function Sectionthree(){
                     <img className="afbeelding-icons"  src={Icon3}></img>
                 </div>
                 <br/>
-                <h2>Dtp</h2>
+                <h2>Webshop</h2>
                 <br/>
                 <p className="tekst-service">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum.</p>
-                <button onClick={popUp2}>meer info</button>
+                <button onClick={popUp2}>lees meer</button>
 
                 </div>
             </div>

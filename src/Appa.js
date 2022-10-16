@@ -27,7 +27,7 @@ function Appa(){
     
     return(
         <div> 
-          <div id="preloader"></div>
+          {/* <div id="preloader"></div> */}
             {/* <div className="streep"></div> */}
             <Router>
                <Routes>
@@ -40,7 +40,7 @@ function Appa(){
         <div class="row">
           <div class="col-sm-12 col-md-6">
             <h6>About</h6>
-            <p class="text-justify">ijjridijdrijdrjirdij rdjirdij rdijjidr ijrdjidrij ijrdijrdij kekoed okedoked okedokde jheerj rurur uhrfhurf hrfuh frhuuhfr jiijrf ijfrij rfijkjfrji ijfr rfrf ijfrij rfijkjfrji ijfr rfrf.</p>
+            <p class="text-justify">Wij zijn future combinations. Wij zijn een serieus webdesign en online web development bureau.<br/> Wij ontwikkelen websites op maat, webshops en webapplicaties.</p>
           </div>
 
           <div class="col-xs-6 col-md-3">

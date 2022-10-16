@@ -1,8 +1,8 @@
 {
     "navbar": {
-        "1": "Ons Verhaal",
+        "1": "Websites",
         "2": "Diensten",
-        "3": "Voor Wie",
+        "3": "Ons verhaal",
         "4": "Team",
         "5": "Stappenplan",
         "6": "Contact"
@@ -24,16 +24,16 @@
         "2": "Stuur ons een bericht",
         "3": "Uw Naam",
         "4": "Uw email",
-        "5": "Bedrijfsnaam",
+        "5": "Onderwerp",
         "6": "Uw bericht",
         "7": "Ja, ik wil graag telefonisch / per e-mail berichten ontvangen over de diensten van Bedrijf.",
         "8": "VERZENDEN",
         "9": "Wij hechten veel waarde aan persoonlijk contact en willen je dan ook vragen om aan te geven wanneer je het beste bereikbaar bent."
     },
     "wieZijnWij": {
-        "1": "Ons Verhaal"
+        "1": "Krachtige & unieke websites"
     },
     "WaaromOns": {
-        "1": "Waarom ons"
+        "1": "Ons verhaal"
     }
 }
