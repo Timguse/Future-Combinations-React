@@ -22,14 +22,12 @@ function Navbar(){
             document.getElementById('b').innerHTML = 'en';
             i18n.changeLanguage('en');
 
-        }else{
+        } else{
             document.getElementById('b').innerHTML = 'nl';
 
             i18n.changeLanguage('nl');
-
         }
     }
-
     return (
         <div className="navbar">
             <br/><br/>

@@ -4,7 +4,6 @@
         "2": "Diensten",
         "3": "Ons verhaal",
         "4": "Team",
-        "5": "Stappenplan",
         "6": "Contact"
     },
     "afspraakMaken": {
@@ -31,9 +30,32 @@
         "9": "Wij hechten veel waarde aan persoonlijk contact en willen je dan ook vragen om aan te geven wanneer je het beste bereikbaar bent."
     },
     "wieZijnWij": {
-        "1": "Krachtige & unieke websites"
+        "1": "Krachtige & unieke websites",
+        "2": "Een nieuwe website laten maken doe je niet zomaar even. Het is een investering voor de lange termijn. Een goede website is meer dan alleen een online visitekaartje.",
+        "3": "Bij Future combinations maken we websites die er niet alleen goed uit zien maar vooral ook voor meer omzet zorgen! Hoe uitgebreid of juist eenvoudig je website of webshop ook wordt, de basis moet altijd op orde zijn. Bij ons ben je zeker van een website die technisch goed in elkaar zit.Bij ons ben je helemaal eigen baas over je website. Hij staat op je eigen domeinnaam en we bouwen de website met WordPress of coderen het met react of php afhankelijk van de website."
     },
     "WaaromOns": {
         "1": "Ons verhaal"
+    },
+    "home":{
+        "1": "Ben jij opzoek naar een krachtige & unieke website met een zichtbaar resultaat?"
+    },
+    "diensten": {
+        "1": "Website",
+        "2": "Webdesign",
+        "3": "Advies",
+        "4": "Apparaten",
+        "5": "krachtige en unieke websites, geheel op maat voor jouw bedrijf. Gemaakt in wordpress of helemaal geschreven met webtalen.",
+        "6": "Elke website die wij ontwerpen heeft een uniek design, volledig in lijn met jouw huisstijl.",
+        "7": "Tijdens het bouwen van een website en lang daarna, heb je je toegang tot onze experts om je te ondersteunen en te begeleiden.",
+        "8": "Jouw website is volledig responsive. Dit betekent dat de website op alle apparaten, dus ook op mobiele apparaten, snel laadt en uitstekend leesbaar is."
+    },
+    "ourstory": {
+        "1": "Ons verhaal",
+        "2": "Wij zijn future combinations. Wij zijn een serieus webdesign en online web development bureau. Wij ontwikkelen websites op maat, webshops en webapplicaties. Wij zijn trots op wat we doen.",
+        "3": "Samenwerken met Future combinations betekent aan de slag gaan met een team dat niet alleen gedreven, ervaren en enthousiast is, maar ook altijd voor je klaar staat. We leveren professionele websites met veel passie en enthousiasme."
     }
+
+    
+    
 }

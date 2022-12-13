@@ -1,7 +1,6 @@
 .sectionfour{
     height: 90vh;
     background-color: rgb(255, 255, 255);
-
 }
 .sectionfour-blok{
     /* border: 1px solid black; */
@@ -61,11 +60,11 @@
 }
 .profielfoto1{
     width: 530px;
-    margin-top: -139px;
+    margin-top: -138.5px;
 }
 .profielfoto:hover{
     width: 510px;
-    margin-top: -128px;
+    margin-top: -127px;
 }
 .profielfoto1:hover{
     width: 560px;
@@ -114,6 +113,34 @@
         border-radius: 15px;
         display: flex;
         margin-top: -50px;
+    }
+}
+@media (max-width: 800px){
+    .max{
+        float: none;
+        width: 100%;
+        margin-top: 156px;
+    }
+}
+@media (max-width: 720px){
+    .max{
+        float: none;
+        width: 100%;
+        margin-top: 157px;
+    }
+}
+@media (max-width: 650px){
+    .max{
+        float: none;
+        width: 100%;
+        margin-top: 158px;
+    }
+}
+@media (max-width: 600px){
+    .max{
+        float: none;
+        width: 100%;
+        margin-top: 159px;
     }
 }
 .icon-l-f-i{

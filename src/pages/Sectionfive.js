@@ -2,13 +2,12 @@ import React from "react";
 import "./styles/styleSectionfive.css";
 import { useTranslation } from 'react-i18next';
 
-function sectionfive(){
+function sectionfive() {
+    // eslint-disable-next-line react-hooks/rules-of-hooks
     const { t, i18n } = useTranslation();
-
     return (
         <div className="sectionfive">
             <div className="sectionfivelinks">
-                
             </div>
             <div className="sectionfiverechts">
                 <br/><br/>

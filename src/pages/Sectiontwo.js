@@ -13,15 +13,12 @@ function Sectiontwo() {
                 <img src={icon}></img>
             </div>
             <div className="textSectiontwo">
-                <h1>{t("WaaromOns.1")}</h1><br />
-                <b><br />
-                    Wij zijn future combinations. Wij zijn een serieus webdesign en online web development bureau.
-
-                    Wij ontwikkelen websites op maat, webshops en webapplicaties.</b>
+                <h1>{t("ourstory.1")}</h1><br />
+                <b>{t("ourstory.2")}</b>
                 <br /><br />
-                <p> Wij zijn trots op wat we doen.
-
-                    Ons team bestaat uit webdesigners en ontwikkelaars. </p>
+                <p>
+                    {t("ourstory.3")}
+                </p>
             </div>
 
         </div>

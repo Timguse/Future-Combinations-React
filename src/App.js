@@ -22,8 +22,6 @@ function App() {
       <Navbar/>
       
       <a href="#Sectionsix">
-        
-
       </a>
       <Home/>
       <div data-aos="fade-in" data-aos-duration="10000" id="sectionone"><Sectionone/></div>

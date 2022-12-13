@@ -1,10 +1,9 @@
 {
     "navbar": {
-        "1": "Our Story",
+        "1": "Websites",
         "2": "Services",
-        "3": "Why us",
+        "3": "Our story",
         "4": "Team",
-        "5": "Plan",
         "6": "Contact"
     },
     "afspraakMaken": {
@@ -31,9 +30,29 @@
         "9": "We value personal contact and would like to ask you to indicate when you can best be reached."
     },
     "wieZijnWij": {
-        "1": "Our Story"
+        "1": "Powerful & Unique Websites",
+        "2": "Having a new website made is not something you just do. It is a long-term investment. A good website is more than just an online business card.",
+        "3": "At Future combinations we make websites that not only look good, but also ensure more turnover! No matter how extensive or simple your website or webshop becomes, the basis must always be in order. With us you are sure of a website that is technically well put together. With us you are completely in control of your website. It is on your own domain name and we build the website with WordPress or code it with react or php depending on the website."
     },
     "WaaromOns": {
         "1": "Why us"
+    },
+    "home":{
+        "1": "Are you looking for a powerful & unique website with visible results?"
+    },
+    "diensten": {
+        "1": "Website",
+        "2": "Webdesign",
+        "3": "Advice",
+        "4": "Devices",
+        "5": "powerful and unique websites, completely customized for your company. Made in wordpress or written entirely with web languages.",
+        "6": "Every website we design has a unique design, completely in line with your corporate identity.",
+        "7": "While building a website and long after, you have access to our experts to support and guide you.",
+        "8": "Your website is fully responsive. This means that the website loads quickly on all devices, including mobile devices, and is easy to read."
+    },
+    "ourstory": {
+        "1": "Our story",
+        "2": "We are future combinations. We are a serious web design and online web development agency. We develop custom websites, web shops and web applications. We are proud of what we do.",
+        "3": "Working together with Future combinations means working with a team that is not only driven, experienced and enthusiastic, but is also always there for you. We deliver professional websites with a lot of passion and enthusiasm."
     }
 }
