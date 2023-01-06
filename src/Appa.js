@@ -5,7 +5,6 @@ import "./style.css";
 import Policy from "./pages/Policy";
 import { BrowserRouter as Router, Routes, Route, Link} from "react-router-dom";
 import Pdf from "./images/Futurecombinations.pdf";
-import CookieConsent from "react-cookie-consent";
 import { useTranslation } from 'react-i18next';
 import IconL from "./images/linkedin.png";
 import IconF from "./images/facebook.png";
@@ -40,7 +39,7 @@ function Appa(){
         <div class="row">
           <div class="col-sm-12 col-md-6">
             <h6>About</h6>
-            <p class="text-justify">Wij zijn future combinations. Wij zijn een serieus webdesign en online web development bureau.<br/> Wij ontwikkelen websites op maat, webshops en webapplicaties.</p>
+            <p class="text-justify">{t("footer.1")}<br/> {t("footer.2")}</p>
           </div>
 
           <div class="col-xs-6 col-md-3">
@@ -54,11 +53,11 @@ function Appa(){
           </div>
 
           <div class="col-xs-6 col-md-3">
-            <h6>Quick Links</h6>
+            <h6>{t("footer.6")}</h6>
             <ul class="footer-links">
-              <li><a href="#sectionone">About Us</a></li>
-              <li><a href="#Sectionsix">Contact Us</a></li>
-              <li><a href = {Pdf} target = "_blank">Algemene Voorwaarden</a></li>
+              <li><a href="#sectionone">{t("footer.5")}</a></li>
+              <li><a href="#Sectionsix">{t("footer.4")}</a></li>
+              <li><a href = {Pdf} target = "_blank">{t("footer.3")}</a></li>
               <li><Link to="/privacy-policy"><p className="footer-text-link">Privacy Policy</p></Link></li>
             </ul>
           </div>

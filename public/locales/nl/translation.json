@@ -32,7 +32,7 @@
     "wieZijnWij": {
         "1": "Krachtige & unieke websites",
         "2": "Een nieuwe website laten maken doe je niet zomaar even. Het is een investering voor de lange termijn. Een goede website is meer dan alleen een online visitekaartje.",
-        "3": "Bij Future combinations maken we websites die er niet alleen goed uit zien maar vooral ook voor meer omzet zorgen! Hoe uitgebreid of juist eenvoudig je website of webshop ook wordt, de basis moet altijd op orde zijn. Bij ons ben je zeker van een website die technisch goed in elkaar zit.Bij ons ben je helemaal eigen baas over je website. Hij staat op je eigen domeinnaam en we bouwen de website met WordPress of coderen het met react of php afhankelijk van de website."
+        "3": "Bij Future combinations maken we websites die er niet alleen goed uit zien maar vooral ook voor meer omzet zorgen! Hoe uitgebreid of juist eenvoudig je website of webshop ook wordt, de basis moet altijd op orde zijn. Bij ons ben je zeker van een website die technisch goed in elkaar zit. Bij ons ben je helemaal eigen baas over je website. Hij staat op je eigen domeinnaam en we bouwen de website met WordPress of coderen het met react of php afhankelijk van de website."
     },
     "WaaromOns": {
         "1": "Ons verhaal"
@@ -54,8 +54,23 @@
         "1": "Ons verhaal",
         "2": "Wij zijn future combinations. Wij zijn een serieus webdesign en online web development bureau. Wij ontwikkelen websites op maat, webshops en webapplicaties. Wij zijn trots op wat we doen.",
         "3": "Samenwerken met Future combinations betekent aan de slag gaan met een team dat niet alleen gedreven, ervaren en enthousiast is, maar ook altijd voor je klaar staat. We leveren professionele websites met veel passie en enthousiasme."
+    },
+    "footer": {
+        "1": "Wij zijn future combinations. Wij zijn een serieus webdesign en online web development bureau.",
+        "2": "Wij ontwikkelen websites op maat, webshops en webapplicaties.",
+        "3": "Algemene Voorwaarden",
+        "4": "Neem Contact op",
+        "5": "Over ons",
+        "6": "linkjes"
+    },
+    "privacy": {
+        "1": "Persoonlijke gegevens",
+        "2": "We leren je graag kennen en doen het liefst persoonlijk zaken met je. Om dat mogelijk te maken, hebben we informatie nodig. We verzamelen geen persoonlijke gegevens, anders dan de gegevens die je ons zelf verstrekt, via bijvoorbeeld e-mail of formulieren.",
+        "3": "Bescherming van persoonsgegevens is belangrijk. Daarom geven we graag in duidelijke en heldere taal weer hoe we omgaan met verwerking van persoonsgegevens op onze website.",
+        "4": "Houdt er rekening mee dat er altijd, op welke manier dan ook, risico’s zijn verbonden aan het doorgeven van gegevens. Omdat we het beveiligen van deze gegevens belangrijk vinden, maken we op onze website gebruik van een SSL certificaat om te zorgen dat deze gegevens beveiligd aan ons verzonden worden. Wanneer je zelf contact met ons opneemt, bijvoorbeeld per mail, worden deze gegevens bewaard. Daarbij heb je zelf in de hand welke gegevens je met ons deelt.",
+        "5": "Wijzigingen in privacy statement",
+        "6": "Ons privacy statement kan van tijd tot tijd door ons worden aangepast. Wijzigingen worden door ons op de website gepubliceerd. We gebruiken gegevens nooit voor andere doeleinden dan waarvoor toestemming is gegeven."
     }
-
     
     
 }

@@ -54,5 +54,21 @@
         "1": "Our story",
         "2": "We are future combinations. We are a serious web design and online web development agency. We develop custom websites, web shops and web applications. We are proud of what we do.",
         "3": "Working together with Future combinations means working with a team that is not only driven, experienced and enthusiastic, but is also always there for you. We deliver professional websites with a lot of passion and enthusiasm."
+    },
+    "footer": {
+        "1": "We are future combinations. We are a serious web design and online web development agency.",
+        "2": "We develop custom websites, web shops and web applications.",
+        "3": "Terms and Conditions",
+        "4": "Contact Us",
+        "5": "About Us",
+        "6": "Quick Links"
+    },
+    "privacy": {
+        "1": "Personal information",
+        "2": "We would like to get to know you and prefer to do business with you personally. To make that possible, we need information. We do not collect any personal data, other than the data you provide to us yourself, for example via e-mail or forms.",
+        "3": "Protection of personal data is important. That is why we like to explain in clear and clear language how we handle the processing of personal data on our website.",
+        "4": "Keep in mind that there are always risks involved in passing on data in any way. Because we consider the security of this data important, we use an SSL certificate on our website to ensure that this data is sent to us securely. When you contact us yourself, for example by e-mail, this data is stored. You are in control of what data you share with us.",
+        "5": "Changes to privacy statement",
+        "6": "Our privacy statement may be amended by us from time to time. Changes will be published by us on the website. We never use data for purposes other than those for which permission has been given."
     }
 }
